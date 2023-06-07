@@ -1,22 +1,60 @@
 pageInfo:
   title: 王子导航
+  description: 网址导航页
   description: WEB导航
   navLinks:
     - title: 谷歌搜索
       path: https://www.koge.eu.org/
       target: newtab
+    - title: Documentation
+      path: https://dashy.to/docs
+      target: newtab
+appConfig:
+  theme: colorful
+  layout: auto
+  iconSize: medium
+  language: cn
 sections:
   - name: 应用资源
+    icon: fas fa-rocket
     items:
       - title: chatGPT
+        description: chatGPT镜像
         description: chatGPT
         icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/3cx.png
         url: https://c.aalib.net/tool/chatgpt/
         target: newtab
         id: 0_118672_chatgpt
+      - title: GitHub
+        description: Source Code, Issues and Pull Requests
+        url: https://github.com/lissy93/dashy
+        icon: favicon
+        id: 1_118672_github
+      - title: Docs
+        description: Configuring & Usage Documentation
+        provider: Dashy.to
+        icon: far fa-book
+        url: https://dashy.to/docs
+        id: 2_118672_docs
+      - title: Showcase
+        description: See how others are using Dashy
+        url: https://github.com/Lissy93/dashy/blob/master/docs/showcase.md
+        icon: far fa-grin-hearts
+        id: 3_118672_showcase
+      - title: Config Guide
+        description: See full list of configuration options
+        url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
+        icon: fas fa-wrench
+        id: 4_118672_configguide
+      - title: Support
+        description: Get help with Dashy, raise a bug, or get in contact
+        url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
+        icon: far fa-hands-helping
+        id: 5_118672_support
       - title: Google镜像
         description: Google镜像
-        icon: https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/93616/area14mp/image-20150902-6700-t2axrz.jpg
+        icon: >-
+          https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/93616/area14mp/image-20150902-6700-t2axrz.jpg
         url: https://c.aalib.net/tool/gglink/
         target: newtab
         id: 1_118672_google
@@ -56,6 +94,8 @@ sections:
       cols: 1
       collapsed: false
       hideForGuests: false
+
+
   - name: 监控资源
     displayData:
       sortBy: default
@@ -107,12 +147,12 @@ sections:
         url: https://www.xixi16.com/forum-59-1.html
         target: newtab
         id: 2_111150_
-     - title: 高清电影网
+	    - title: 高清电影网
         description: 最新高清电影下载
         icon: https://bpic.588ku.com/art_origin_min_pic/19/04/15/6a3ac6cadf07babebc84f3e510dae1f2.jpg
         url: https://dying.eu.org/
         target: newtab
-        id: 3_111150_		
+        id: 3_111150_	
   - name: 短视频下载
     displayData:
       sortBy: default
