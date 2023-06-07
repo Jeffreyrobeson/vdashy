@@ -1,10 +1,3 @@
 pageInfo:
   title: Home Lab
-sections:
-- name: Section 1 - Getting Started
-  items: # An array of items
-  - title: GitHub
-    description: Source code and documentation on GitHub
-    icon: fab fa-github
-    url: https://github.com/Lissy93/dashy
 
