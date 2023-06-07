@@ -1,7 +1,7 @@
 ---
 pageInfo:
   title: Home Lab
-sections: # An array of sections
+sections: 
 - name: Section 1 - Getting Started
   items: # An array of items
   - title: GitHub
