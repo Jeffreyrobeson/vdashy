@@ -101,13 +101,19 @@ sections:
         icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/baikal.png
         url: https://www.chchzhan.com/forum-56-1.html
         target: newtab
-        id: 1_111150_
+        id: 0_111150_
       - title: 西西电影
         description: 西西电影下载
         icon: https://www.linkbar.cn/zdmsl_image/xixihd_com.png
         url: https://www.xixi16.com/forum-59-1.html
         target: newtab
-        id: 2_111150_      
+        id: 1_111150_
+      - title: 高清电影
+        description: 高清电影下载
+        icon: https://www.linkbar.cn/zdmsl_image/xixihd_com.png
+        url: https://dying.eu.org
+        target: newtab
+        id: 2_111150_
   - name: 短视频下载
     displayData:
       sortBy: default
