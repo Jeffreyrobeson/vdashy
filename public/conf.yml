@@ -27,6 +27,18 @@ sections:
     url: https://c.aalib.net/tool/chatgpt/
     target: newtab
     id: 0_118672_chatgpt
+  - title: Google镜像
+    description: Google镜像
+    icon: https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/93616/area14mp/image-20150902-6700-t2axrz.jpg
+    url: https://c.aalib.net/tool/gglink/
+    target: newtab
+    id: 1_118672_google
+  - title: 小白工具箱
+    description: 小白工具箱
+    icon: https://img.zcool.cn/community/01dcbe554bd921000001bf7279a9bf.jpg@1280w_1l_2o_100sh.jpg
+    url: https://www.ooopn.com/
+    target: newtab
+    id: 2_118672_    
   - title: GitHub
     description: Source Code, Issues and Pull Requests
     url: https://github.com/lissy93/dashy
