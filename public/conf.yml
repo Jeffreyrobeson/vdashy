@@ -94,8 +94,6 @@ sections:
       cols: 1
       collapsed: false
       hideForGuests: false
-
-
   - name: 监控资源
     displayData:
       sortBy: default
