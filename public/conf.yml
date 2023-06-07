@@ -1,59 +1,129 @@
 pageInfo:
   title: 王子导航
-  description: 网址导航页
+  description: WEB导航
   navLinks:
     - title: 谷歌搜索
       path: https://www.koge.eu.org/
       target: newtab
-    - title: Documentation
-      path: https://dashy.to/docs
-      target: newtab
-appConfig:
-  theme: colorful
-  layout: auto
-  iconSize: medium
-  language: cn
 sections:
   - name: 应用资源
-    icon: fas fa-rocket
     items:
       - title: chatGPT
-        description: chatGPT镜像
+        description: chatGPT
         icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/3cx.png
         url: https://c.aalib.net/tool/chatgpt/
         target: newtab
         id: 0_118672_chatgpt
-      - title: GitHub
-        description: Source Code, Issues and Pull Requests
-        url: https://github.com/lissy93/dashy
-        icon: favicon
-        id: 1_118672_github
-      - title: Docs
-        description: Configuring & Usage Documentation
-        provider: Dashy.to
-        icon: far fa-book
-        url: https://dashy.to/docs
-        id: 2_118672_docs
-      - title: Showcase
-        description: See how others are using Dashy
-        url: https://github.com/Lissy93/dashy/blob/master/docs/showcase.md
-        icon: far fa-grin-hearts
-        id: 3_118672_showcase
-      - title: Config Guide
-        description: See full list of configuration options
-        url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
-        icon: fas fa-wrench
-        id: 4_118672_configguide
-      - title: Support
-        description: Get help with Dashy, raise a bug, or get in contact
-        url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
-        icon: far fa-hands-helping
-        id: 5_118672_support
+      - title: Google镜像
+        description: Google镜像
+        icon: >-
+          https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/93616/area14mp/image-20150902-6700-t2axrz.jpg
+        url: https://c.aalib.net/tool/gglink/
+        target: newtab
+        id: 1_118672_google
+      - title: 小白工具箱
+        description: 小白工具箱
+        icon: https://img.zcool.cn/community/01dcbe554bd921000001bf7279a9bf.jpg@1280w_1l_2o_100sh.jpg
+        url: https://www.ooopn.com/
+        target: newtab
+        id: 2_118672_
+      - title: dockerhub搜索
+        description: dockerhub搜索
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/docker.png
+        url: https://dockerhub.koge.eu.org/
+        target: newtab
+        id: 5_118672_dockerhub
+      - title: 京东上车
+        description: 京东赚豆
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/albertheijn.png
+        url: https://jd.luckyleesir.top/
+        target: newtab
+        id: 6_118672_
+      - title: 我不是矿神
+        description: 群晖第三方套件
+        icon: https://tse1-mm.cn.bing.net/th/id/OIP-C.kOXJ795llcrI-CEpOSUttwAAAA?pid=ImgDet&rs=1
+        url: https://imnks.com/
+        target: newtab
+        id: 7_118672_
+      - title: 谷歌翻译
+        description: 谷歌翻译
+        icon: https://src.onlinedown.net/images/pc_imges/pc_12/592f50d55c52d403401496273109.jpg
+        url: https://gotr.hassis.eu.org
+        target: newtab
+        id: 8_118672_
     displayData:
       sortBy: default
       rows: 1
       cols: 1
       collapsed: false
       hideForGuests: false
-
-
+  - name: 监控资源
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: planet
+        description: zerotier
+        icon: https://img.pcsoft.com.cn/soft/202011/162531-5fbe14fbbb426.jpg
+        url: http://hassis.site:3443/
+        target: newtab
+        id: 0_120396_planet
+      - title: Cloudflare
+        description: Cloudflare
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/cloudflare.png
+        url: https://dash.cloudflare.com/
+        target: newtab
+        id: 1_120396_cloudflare
+      - title: scaleway
+        description: scaleway
+        icon: https://www.mistergeek.net/content/images/wordpress/2017/11/scaleway-logo.jpg
+        url: https://console.scaleway.com/login
+        target: newtab
+        id: 2_120396_scaleway
+      - title: tailscale
+        description: tailscale
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/tailscale.png
+        url: https://login.tailscale.com/admin/machines
+        target: newtab
+        id: 5_120396_tailscale
+  - name: 电影下载
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: 百度云电影
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/baikal.png
+        url: https://www.chchzhan.com/forum-56-1.html
+        target: newtab
+        id: 1_111150_
+      - title: 西西电影
+        description: 西西电影下载
+        icon: https://www.linkbar.cn/zdmsl_image/xixihd_com.png
+        url: https://www.xixi16.com/forum-59-1.html
+        target: newtab
+        id: 2_111150_
+  - name: 短视频下载
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: DL熊猫
+        description: DL熊猫抖音youtube下载
+        icon: https://img95.699pic.com/element/40020/6812.png_860.png
+        url: https://dlpanda.com/zh-CN
+        target: newtab
+        id: 0_161740_dl
+appConfig:
+  theme: colorful
+  language: cn
+  layout: auto
+  iconSize: medium
