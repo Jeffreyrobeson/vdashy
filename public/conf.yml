@@ -107,13 +107,7 @@ sections:
         icon: https://www.linkbar.cn/zdmsl_image/xixihd_com.png
         url: https://www.xixi16.com/forum-59-1.html
         target: newtab
-        id: 2_111150_
-       - title: 西西电影3
-        description: 西西电影下载3
-        icon: https://www.linkbar.cn/zdmsl_image/xixihd_com.png
-        url: https://www.xixi16.com/forum-59-1.html
-        target: newtab
-        id: 3_111150_       
+        id: 2_111150_      
   - name: 短视频下载
     displayData:
       sortBy: default
