@@ -108,12 +108,6 @@ sections:
         url: https://www.xixi16.com/forum-59-1.html
         target: newtab
         id: 2_111150_
-      - title: 高清电影网
-        description: 最新高清电影下载
-        icon: https://bpic.588ku.com/art_origin_min_pic/19/04/15/6a3ac6cadf07babebc84f3e510dae1f2.jpg
-        url: https://dying.eu.org/
-        target: newtab
-        id: 3_111150_
 - name: 短视频下载
     displayData:
       sortBy: default
