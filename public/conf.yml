@@ -56,7 +56,13 @@ sections:
         icon: https://pngimg.com/uploads/github/github_PNG28.png
         url: https://github.koge.eu.org
         target: newtab
-        id: 9_118672_     
+        id: 9_118672_ 
+      - title: 即刻学习
+        description: 即刻学习
+        icon: https://img.51miz.com/Element/00/79/09/99/ef3ffb79_E790999_40cc975e.png
+        url: https://www.jkxuexi.com/
+        target: newtab
+        id: 10_118672_        
     displayData:
       sortBy: default
       rows: 1
