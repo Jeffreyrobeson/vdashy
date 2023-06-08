@@ -51,6 +51,12 @@ sections:
         url: https://gotr.hassis.eu.org
         target: newtab
         id: 8_118672_
+      - title: Github搜索
+        description: Github搜索
+        icon: https://pngimg.com/uploads/github/github_PNG28.png
+        url: https://github.koge.eu.org
+        target: newtab
+        id: 9_118672_        
     displayData:
       sortBy: default
       rows: 1
