@@ -106,13 +106,13 @@ sections:
         icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/tailscale.png
         url: https://login.tailscale.com/admin/machines
         target: newtab
-        id: 3_120396_tailscale
+        id: 5_120396_tailscale
       - title: hamibot
         description: Hamibot安卓自动化工具
         icon:https://hamibot.com/social.jpg
         url: https://hamibot.com/
         target: newtab
-        id: 4_120396_tailscale        
+        id: 6_120396_tailscale        
   - name: 电影下载
     displayData:
       sortBy: default
