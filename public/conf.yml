@@ -95,6 +95,18 @@ sections:
         url: https://console.scaleway.com/login
         target: newtab
         id: 2_120396_scaleway
+      - title: hamibot
+        description: hamibot
+        icon: https://hamibot.com/social.jpg
+        url: https://hamibot.com
+        target: newtab
+        id: 3_120396_hamibot
+      - title: 网盘资源社
+        description: 网盘资源社
+        icon: https://pic4.zhimg.com/80/v2-9b74d278b8416a6a147be94170b988bc_qhd.jpg
+        url: https://www.wpzyk.cn
+        target: newtab
+        id: 4_120396_        
       - title: tailscale
         description: tailscale
         icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/tailscale.png
