@@ -152,6 +152,24 @@ sections:
         url: https://dlpanda.com/zh-CN
         target: newtab
         id: 0_161740_dl
+      - title: 酷豆去水印
+        description: 酷豆去水印
+        icon: https://api.iowen.cn/favicon/dy.kukutool.com.png
+        url: https://dy.kukutool.com
+        target: newtab
+        id: 1_161740_
+      - title: 嗨呀去水印
+        description: 嗨呀去水印
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://www.haiya360.com
+        target: newtab
+        id: 2_161740_
+      - title: 微视短视频
+        description: 微视短视频解析下载
+        icon: https://img.sj33.cn/uploads/202011/7-2011251411005X.jpg
+        url: https://weishi.iiilab.com
+        target: newtab
+        id: 3_161740_
 appConfig:
   theme: colorful
   language: cn
