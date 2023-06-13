@@ -10,7 +10,7 @@ sections:
     items:
       - title: chatGPT
         description: chatGPT
-        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/3cx.png
+        icon: https://static.iculture.cc/wp-content/uploads/2022/12/20221209114600735.png
         url: https://c.aalib.net/tool/chatgpt/
         target: newtab
         id: 0_118672_chatgpt
@@ -62,7 +62,13 @@ sections:
         icon: https://img.51miz.com/Element/00/79/09/99/ef3ffb79_E790999_40cc975e.png
         url: https://www.jkxuexi.com/
         target: newtab
-        id: 10_118672_        
+        id: 10_118672_  
+      - title: NETGPT
+        description: NETGPTopenai
+        icon: https://static.iculture.cc/wp-content/uploads/2022/12/20221209114600735.png
+        url: https://www.netgpt.online
+        target: newtab
+        id: 11_118672_          
     displayData:
       sortBy: default
       rows: 1
@@ -138,6 +144,12 @@ sections:
         url: https://dying.eu.org
         target: newtab
         id: 2_111150_
+      - title: 网盘直链下载助手
+        description: 网盘直链下载助手
+        icon: https://img.51miz.com/Element/00/79/09/99/ef3ffb79_E790999_40cc975e.png
+        url: https://www.youxiaohou.com/install.html
+        target: newtab
+        id: 3_111150_       
   - name: 短视频下载
     displayData:
       sortBy: default
