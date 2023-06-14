@@ -64,11 +64,17 @@ sections:
         target: newtab
         id: 10_118672_  
       - title: NETGPT
-        description: NETGPTopenai
+        description: chatGPT3.5openai
         icon: https://static.iculture.cc/wp-content/uploads/2022/12/20221209114600735.png
         url: https://www.netgpt.online
         target: newtab
-        id: 11_118672_          
+        id: 11_118672_   
+      - title: Slack登录
+        description: chatGPT4.0
+        icon: https://tse1-mm.cn.bing.net/th/id/OIP-C.BYEEwaj177S0HkfwO12SKAHaFj?pid=ImgDet&rs=1
+        url: https://netgpt.slack.com/
+        target: newtab
+        id: 12_118672_           
     displayData:
       sortBy: default
       rows: 1
@@ -149,7 +155,13 @@ sections:
         icon: https://pic4.zhimg.com/80/v2-9b74d278b8416a6a147be94170b988bc_qhd.jpg
         url: https://www.youxiaohou.com/install.html
         target: newtab
-        id: 3_111150_       
+        id: 3_111150_
+      - title: BT天空
+        description: BT天空电影下载
+        icon: https://tse3-mm.cn.bing.net/th/id/OIP-C.vn0FDShBdlQhZMWDzzHhRwHaDB?pid=ImgDet&rs=1
+        url: https://www.bt-tt.com/
+        target: newtab
+        id: 4_111150_        
   - name: 短视频下载
     displayData:
       sortBy: default
