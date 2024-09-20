@@ -189,7 +189,7 @@ sections:
         target: newtab
         id: 2_161740_
       - title: 微视短视频
-        description: 微视短视频解析下载
+        description: 微视短视频下载
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
         url: https://weishi.iiilab.com
         target: newtab
