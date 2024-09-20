@@ -194,7 +194,7 @@ sections:
         url: https://weishi.iiilab.com
         target: newtab
         id: 3_161740_
-        - title: youtube下载y2mate
+      - title: youtube下载y2mate
         description: youtube下载y2mate
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
         url: https://www.y2mate.com/
