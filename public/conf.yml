@@ -190,10 +190,16 @@ sections:
         id: 2_161740_
       - title: 微视短视频
         description: 微视短视频解析下载
-        icon: https://img.sj33.cn/uploads/202011/7-2011251411005X.jpg
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
         url: https://weishi.iiilab.com
         target: newtab
         id: 3_161740_
+        - title: youtube下载y2mate
+        description: youtube下载y2mate
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://www.y2mate.com/
+        target: newtab
+        id: 4_161740_yt
   - name: AI歌曲生成器
     displayData:
       sortBy: default
