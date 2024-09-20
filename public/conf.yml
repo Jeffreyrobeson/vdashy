@@ -262,6 +262,20 @@ sections:
         url: https://aimusic.so
         target: newtab
         id: 4_181740_aimusic
+  - name: AIGC在线体验
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: MiniCPM-V-2_6
+        description: musichero
+        icon: https://hub-avatar.baai.ac.cn/user/45017.png
+        url: https://huggingface.co/spaces/openbmb/MiniCPM-V-2_6
+        target: newtab
+        id: 0_191740_huggingface
 appConfig:
   theme: colorful
   language: cn
