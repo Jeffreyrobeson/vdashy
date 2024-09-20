@@ -281,25 +281,25 @@ sections:
         icon: https://hub-avatar.baai.ac.cn/user/45017.png
         url: https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha
         target: newtab
-        id: 1_181740_huggingface
+        id: 1_191740_huggingface
       - title: DragGan
         description: DragGan
         icon: https://hub-avatar.baai.ac.cn/user/45017.png
         url: https://huggingface.co/spaces/DragGan/DragGan
         target: newtab
-        id: 2_181740_huggingface
+        id: 2_191740_huggingface
       - title: openxlab
         description: openxlab
         icon: https://hub-avatar.baai.ac.cn/user/45017.png
         url: https://openxlab.org.cn/apps/detail/XingangPan/DragGAN
         target: newtab
-        id: 3_181740_openxlab
+        id: 3_191740_openxlab
       - title: AnyText图文融合
         description: AnyText图文融合
         icon: https://hub-avatar.baai.ac.cn/user/45017.png
         url: https://modelscope.cn/studios/iic/studio_anytext/summary
         target: newtab
-        id: 4_181740_AnyText
+        id: 4_191740_AnyText
   - name: GPT领域
     displayData:
       sortBy: default
@@ -314,6 +314,36 @@ sections:
         url: https://www.doubao.com/
         target: newtab
         id: 0_201740_gpt
+      - title: 阿里通义听悟
+        description: 阿里通义听悟
+        icon: https://www.ainavpro.com/wp-content/uploads/2023/06/61686199323_.pic_.png
+        url: https://tingwu.aliyun.com/
+        target: newtab
+        id: 1_201740_gpt
+      - title: 百度文心一言
+        description: 百度文心一言
+        icon: https://tse4-mm.cn.bing.net/th/id/OIP-C.I6hBaql6YCTUKlT9dI_wGAAAAA?pid=ImgDet&rs=1
+        url: https://yiyan.baidu.com/
+        target: newtab
+        id: 2_201740_gpt
+      - title: 腾讯元宝
+        description: 腾讯元宝
+        icon: https://k.sinaimg.cn/n/sinakd20240530s/356/w661h495/20240530/6ca1-9aba3a6269808f7b6ea1114d9fc57cf1.jpg/w700d1q75cms.jpg
+        url: https://www.doubao.com/
+        target: newtab
+        id: 3_201740_gpt
+      - title: lawchat
+        description: lawchat
+        icon: https://tse4-mm.cn.bing.net/th/id/OIP-C.I6hBaql6YCTUKlT9dI_wGAAAAA?pid=ImgDet&rs=1
+        url: https://chatlaw.cloud/lawchat
+        target: newtab
+        id: 4_201740_gpt
+      - title: 华佗GPT
+        description: 华佗GPT
+        icon: https://n.sinaimg.cn/sinakd10120/331/w615h516/20200722/29db-iwtqvyk2835705.jpg
+        url: https://www.huatuogpt.cn/
+        target: newtab
+        id: 5_201740_gpt
 appConfig:
   theme: colorful
   language: cn
