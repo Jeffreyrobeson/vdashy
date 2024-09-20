@@ -358,6 +358,30 @@ sections:
         url: https://spot.ecloud.global/
         target: newtab
         id: 0_211740_s
+      - title: GitHub辅助下载1
+        description: GitHub辅助下载1
+        icon: https://pngimg.com/uploads/github/github_PNG28.png
+        url: https://d.serctl.com/
+        target: newtab
+        id: 1_211740_s
+      - title: GitHub文件加速
+        description: GitHub文件加速
+        icon: https://pngimg.com/uploads/github/github_PNG28.png
+        url: https://gh.api.99988866.xyz/
+        target: newtab
+        id: 2_211740_s
+      - title: GitHub代理
+        description: GitHub代理
+        icon: https://pngimg.com/uploads/github/github_PNG28.png
+        url: https://ghp.ci/
+        target: newtab
+        id: 3_211740_s
+      - title: devv-ai
+        description: devv-ai
+        icon: https://pngimg.com/uploads/github/github_PNG28.png
+        url: https://devv.ai/
+        target: newtab
+        id: 4_211740_s
 appConfig:
   theme: colorful
   language: cn
