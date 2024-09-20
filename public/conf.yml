@@ -194,6 +194,20 @@ sections:
         url: https://weishi.iiilab.com
         target: newtab
         id: 3_161740_
+  - name: AI歌曲生成器
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: musichero
+        description: musichero
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://musichero.ai
+        target: newtab
+        id: 0_181740_aimusic        
 appConfig:
   theme: colorful
   language: cn
