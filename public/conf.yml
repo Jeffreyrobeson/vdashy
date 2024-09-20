@@ -207,7 +207,13 @@ sections:
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
         url: https://musichero.ai
         target: newtab
-        id: 0_181740_aimusic        
+        id: 0_181740_aimusic  
+      - title: brev
+        description: brev
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://brev.ai
+        target: newtab
+        id: 1_181740_aimusic
 appConfig:
   theme: colorful
   language: cn
