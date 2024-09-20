@@ -344,6 +344,20 @@ sections:
         url: https://www.huatuogpt.cn/
         target: newtab
         id: 5_201740_gpt
+  - name: 搜索合集
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: murena搜索引擎
+        description: murena搜索引擎
+        icon: https://ts1.cn.mm.bing.net/th/id/R-C.393aa3396d88fb5d66838dca8b4ab9c3?rik=uLcvX%2bvxKGJJTg&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2023%2f02-11%2f135431%2fwater_135431_698_698_.png&ehk=bkQgHkRRDhT6lra7svQFNh7071BSPlQEwwbhXgRE5mQ%3d&risl=&pid=ImgRaw&r=0g
+        url: https://spot.ecloud.global/
+        target: newtab
+        id: 0_211740_s
 appConfig:
   theme: colorful
   language: cn
