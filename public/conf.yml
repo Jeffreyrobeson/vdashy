@@ -214,6 +214,24 @@ sections:
         url: https://brev.ai
         target: newtab
         id: 1_181740_aimusic
+      - title: aisonggenerator
+        description: aisonggenerator
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://aisonggenerator.io
+        target: newtab
+        id: 2_181740_aimusic
+      - title: suno
+        description: suno
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://suno.com
+        target: newtab
+        id: 3_181740_aimusic
+      - title: aimusic
+        description: aimusic
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://aimusic.so
+        target: newtab
+        id: 4_181740_aimusic
 appConfig:
   theme: colorful
   language: cn
