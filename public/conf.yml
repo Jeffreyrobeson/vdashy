@@ -200,6 +200,30 @@ sections:
         url: https://www.y2mate.com/
         target: newtab
         id: 4_161740_yt
+      - title: youtube下载yt2k
+        description: youtube下载y2mate
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://yt2k.com/
+        target: newtab
+        id: 5_161740_yt
+      - title: youtube下载iiilab
+        description: youtube下载iiilab
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://youtube.iiilab.com/
+        target: newtab
+        id: 6_161740_yt
+      - title: youtube下载notube
+        description: youtube下载notube
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://notube.me/
+        target: newtab
+        id: 7_161740_yt
+      - title: youtube下载twitterfk
+        description: youtube下载twitterfk
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://twitterfk.com/
+        target: newtab
+        id: 8_161740_yt
   - name: AI歌曲生成器
     displayData:
       sortBy: default
