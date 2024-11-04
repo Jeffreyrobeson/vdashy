@@ -388,6 +388,12 @@ sections:
         url: https://devv.ai/
         target: newtab
         id: 4_211740_s
+      - title: Luxirty Search
+        description: 基于Google搜索引擎
+        icon: https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png
+        url: https://search.luxirty.com/
+        target: newtab
+        id: 5_511740_s
 appConfig:
   theme: colorful
   language: cn
