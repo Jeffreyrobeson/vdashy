@@ -288,6 +288,12 @@ sections:
         url: https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-one
         target: newtab
         id: 1_191741_huggingface
+      - title: joy-caption-alpha-two
+        description: joy-caption-alpha-two
+        icon: https://hub-avatar.baai.ac.cn/user/45017.png
+        url: https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two
+        target: newtab
+        id: 1_191742_huggingface
       - title: DragGan
         description: DragGan
         icon: https://hub-avatar.baai.ac.cn/user/45017.png
