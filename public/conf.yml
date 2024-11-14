@@ -312,6 +312,12 @@ sections:
         url: https://modelscope.cn/studios/iic/studio_anytext/summary
         target: newtab
         id: 4_191740_AnyText
+      - title: EasyAnimate
+        description: EasyAnimateV5
+        icon: https://hub-avatar.baai.ac.cn/user/45017.png
+        url: https://huggingface.co/spaces/alibaba-pai/EasyAnimate
+        target: newtab
+        id: 5_191740_EasyAnimate
   - name: GPT领域
     displayData:
       sortBy: default
