@@ -194,36 +194,42 @@ sections:
         url: https://weishi.iiilab.com
         target: newtab
         id: 3_161740_
-      - title: youtube下载y2mate
-        description: youtube下载y2mate
+      - title: youtube下载4kdownloader
+        description: youtube下载4kdownloader
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
-        url: https://www.y2mate.com/
+        url: https://youtube4kdownloader.com/
         target: newtab
         id: 4_161740_yt
-      - title: youtube下载yt2k
-        description: youtube下载y2mate
+      - title: youtube下载yt5s
+        description: youtube下载yt5s
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
-        url: https://yt2k.com/
+        url: https://yt5s.biz/zh-cn
         target: newtab
         id: 5_161740_yt
-      - title: youtube下载iiilab
-        description: youtube下载iiilab
+      - title: youtube下载zh.loader
+        description: youtube下载zh.loader
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
-        url: https://youtube.iiilab.com/
+        url: https://zh.loader.to/1/1080p-video-downloader.html
         target: newtab
         id: 6_161740_yt
-      - title: youtube下载notube
-        description: youtube下载notube
+      - title: youtube下载ddownr
+        description: youtube下载ddownr
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
-        url: https://notube.me/
+        url: https://ddownr.com/zh2s/youtube-video-downloader
         target: newtab
         id: 7_161740_yt
-      - title: youtube下载twitterfk
-        description: youtube下载twitterfk
+      - title: 下载twitterfk
+        description: 下载twitterfk
         icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
         url: https://twitterfk.com/
         target: newtab
         id: 8_161740_yt
+      - title: youtube下载downmp3
+        description: youtube下载downmp3
+        icon: https://img.51miz.com/Element/00/79/45/43/80c239ff_E794543_c521f4aa.png
+        url: https://downmp3.yt/zhq9/youtube-video-downloader
+        target: newtab
+        id: 9_161740_yt
   - name: AI歌曲生成器
     displayData:
       sortBy: default
