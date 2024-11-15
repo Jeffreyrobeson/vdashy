@@ -324,6 +324,12 @@ sections:
         url: https://huggingface.co/spaces/alibaba-pai/EasyAnimate
         target: newtab
         id: 5_191740_EasyAnimate
+      - title: OmniGen
+        description: OmniGen
+        icon: https://hub-avatar.baai.ac.cn/user/45017.png
+        url: https://huggingface.co/spaces/Shitao/OmniGen
+        target: newtab
+        id: 6_191740_OmniGen
   - name: GPT领域
     displayData:
       sortBy: default
