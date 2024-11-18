@@ -330,6 +330,12 @@ sections:
         url: https://huggingface.co/spaces/Shitao/OmniGen
         target: newtab
         id: 6_191740_OmniGen
+      - title: 图片加背景文字AI神器
+        description: 图片加背景文字AI神器
+        icon: https://hub-avatar.baai.ac.cn/user/45017.png
+        url: https://textbehindimage.rexanwong.xyz/app
+        target: newtab
+        id: 7_191740_textbehindimage
   - name: GPT领域
     displayData:
       sortBy: default
