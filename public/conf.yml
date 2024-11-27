@@ -336,6 +336,12 @@ sections:
         url: https://huggingface.co/spaces/Lightricks/LTX-Video-Playground
         target: newtab
         id: 8_191740_LTX-Video
+      - title: moondream图片反推
+        description: moondream图片反推
+        icon: https://hub-avatar.baai.ac.cn/user/45017.png
+        url: https://huggingface.co/spaces/vikhyatk/moondream2
+        target: newtab
+        id: 9_191740_moondream
       - title: 图片加背景文字AI神器
         description: 图片加背景文字AI神器
         icon: https://hub-avatar.baai.ac.cn/user/45017.png
